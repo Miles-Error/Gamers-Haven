@@ -1,2 +1,2 @@
-# Gamer-s-Haven
-Website for Gamers
+## Gamers-Haven
+This is a website angled toward gamers.
